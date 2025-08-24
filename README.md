@@ -112,8 +112,3 @@ Fork the repo, make your changes, and submit a pull request.
 
 This tool is for **educational and authorized testing purposes only**.  
 Unauthorized scanning of networks that you don't own or have permission to test may be **illegal**.
-
-```
-
-Would you like me to tailor this README with a **badges section** (like Python version, license, etc.) for a more professional look?
-```
